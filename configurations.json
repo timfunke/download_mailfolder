@@ -1,0 +1,22 @@
+[
+  {
+    "active": true,
+    "imapserver": "outlook.office365.com",
+    "username": "timfunke@nixinux.com",
+    "password": "mysecretpassword",
+    "imapfolder": "INBOX/personal",
+    "directory": "/home/tim/archives/email/tim/nixinux/personal",
+    "deleteAfterDownload": false,
+    "numberOfMessages": 10000
+  },
+  {
+    "active": false,
+    "imapserver": "sslmailpool.ispgateway.de",
+    "username": "1324",
+    "password": "yetanotherpassword",
+    "imapfolder": "INBOX.private.timmy",
+    "directory": "/home/tim/archives/email/tim/private",
+    "deleteAfterDownload": true,
+    "numberOfMessages": 1000
+  }
+]
